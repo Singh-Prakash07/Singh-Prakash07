@@ -2,7 +2,7 @@
 🔭 I Have done MCA (2021-24) from NITC and have done my B.sc (2017-20) in Physics, Math, Statistics from BHU.</br>
 🌱  I have gained pretty much good knowledge in DSA, Full stack development and Data science, along with core CS concepts like DBMS, OS, OOPS, Computer Networks.</br>
 🌱 I'm interested in both software development as well as creating ML models </br>
-🌱 I really enjoy creating software products that people going to use. I derive great pleasure from coding and brainstorming technical solutions for software. I love working on challenging projects, constantly learning about new technologies, may be this line feels a little bit praising yourself but it's true to some extend.</br>
+🌱 I really enjoy creating software products that people going to use. I love working on challenging projects, constantly exploring about new technologies in the market, may be this line feels a little bit praising yourself but it's true to some extend.</br>
 🌱 Along with these, I'm really a good at sports, i have won my medals and certificates in different sports like cricket, football, volleyball,   etc.</br>
 
 
